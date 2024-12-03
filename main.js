@@ -79,5 +79,3 @@ for (let i = 1; i < images.length; i++) {
         images[i].classList.remove('active')
     })
 }
-
-

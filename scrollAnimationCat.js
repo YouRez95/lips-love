@@ -7,9 +7,6 @@ const intro = document.querySelector('.colour__care-content')
 const controller = new ScrollMagic.Controller();
 
 
-
-
-
 if (window.innerWidth >= 1000) {
 
     let parallaxTl = new TimelineMax();
